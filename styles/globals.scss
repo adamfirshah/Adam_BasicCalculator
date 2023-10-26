@@ -5,12 +5,12 @@
 @layer base {
   :root {
     /* BACKGROUNDS */
-    --color-main-background: hsl(35, 67%, 54%);
+    --color-main-background: hsl(35, 46%, 5%);
     --color-keypad-background: hsl(240, 11%, 16%);
     --color-screen-background: hsl(240, 11%, 16%);
 
     /* KEYS */
-    --color-key-primary: hsl(35, 67%, 54%);
+    --color-key-primary: hsl(25, 60%, 50%);
     --color-key-primary-shadow: hsl(25, 60%, 50%);
     --color-key-secondary: hsl(148, 95%, 63%);
     --color-key-secondary-shadow: hsl(138, 85%, 53%);
@@ -33,7 +33,7 @@
     /* KEYS */
     --color-key-primary: hsl(185, 42%, 37%);
     --color-key-primary-shadow: hsl(185, 58%, 25%);
-    --color-key-secondary: hsl(25, 98%, 40%);
+    --color-key-secondary: hsl(0, 98%, 40%);
     --color-key-secondary-shadow: hsl(25, 99%, 27%);
     --color-key-muted: hsl(45, 7%, 89%);
     --color-key-muted-shadow: hsl(35, 11%, 61%);

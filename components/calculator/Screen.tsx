@@ -23,6 +23,6 @@ const Screen = () => {
       </Textfit>
     </div>
   );
-};
+}; 
 
 export { Screen };
